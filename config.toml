@@ -19,7 +19,8 @@ highlight_code = true
 juice_logo_name = "Vloxverse"
 juice_logo_path = "vloxverse.svg"
 juice_extra_menu = [
-    { title = "Github", link = "https://github.com/vloxverse"}
+    { title = "Github", link = "https://github.com/vloxverse"},
+    { title = "Discord", link = "https://discord.gg/YbzcqnP7JS"}
 ]
 # Add page titles here to exclude them from the nav section (case sensitive)
 juice_exclude_menu = [
